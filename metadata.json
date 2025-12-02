@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Tamil Daily Helper",
+  "description": "Your smart Tamil-English assistant for translations, writing, explanations, and government guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
